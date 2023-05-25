@@ -13,3 +13,12 @@ Gereksinimler:
 ```
 docker
 ```
+
+Adressler:
+```
+Backend
+	localhost:5000
+	localhost:5000/docs
+Frontend
+	localhost:8080
+```
